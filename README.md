@@ -12,6 +12,18 @@
 
 
 ## Failure case （Model thinking output）
+### Digit Acc
+
+| DataSplit | GPT-5.4 | GPT-5.4-Reasoning | LLaVA-1.5 | Qwen3.5-VL |
+|---|---|---|---|---|
+| Black&White | 30.00% | 41.30% | 69.83% | 9.72% |
+| Colorblindonly | 12.04% | 11.46% | 10.28% | 9.34% |
+| General | 18.03% | 18.47% | 51.97% | 8.62% |
+| NoBack | 83.91% | 89.31% | 88.13% | 84.29% |
+| Protanomaly | 27.02% | 35.05% | 70.07% | 9.27% |
+| Protanopia | 28.79% | 34.92% | 79.86% | 8.17% |
+| Viewablebyall | 38.10% | 48.44% | 85.64% | 11.21% |
+| **Overall** | 33.98% | 39.85% | 65.11% | 20.09% |
 
 ### Case Study: Image `Black&White/226.png`
 
