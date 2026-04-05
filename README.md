@@ -1,5 +1,17 @@
 # Tables and Figures
 
+## GPT4o v.s. GPT 5.4
+
+### GPT4o
+![Image 01](4_1.png)
+![Image 02](4_2.png)
+
+
+### GPT 5.4
+
+![Image 01](54_1.png)
+![Image 02](54_2.png)
+
 ## Table 2
 
 
